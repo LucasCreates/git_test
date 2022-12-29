@@ -1,0 +1,3 @@
+- git status
+- git add "the file to be added"
+- git log
